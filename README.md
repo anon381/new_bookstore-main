@@ -7,9 +7,7 @@ Technologies:
 -------------
 [PHP Backend]    [Bootstrap Styled]    [jQuery AJAX Ready]    [MySQL Database]
 
-🎥 Demo:
---------
-https://user-images.githubusercontent.com/your-username/demo-gif.gif
+
 
 
 🚀 Features
