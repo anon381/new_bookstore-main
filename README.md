@@ -13,7 +13,7 @@ Technologies:
 🚀 Features
 ----------
 
-✅ Backend (PHP + MySQL)
+✅ Backend (PHP and MySQL)
 - Add / Edit / Delete / View books
 - Upload cover images (JPG/PNG)
 - Logs actions in log.txt
@@ -107,8 +107,3 @@ log.txt content:
 - ⭐ Ratings and reviews  
 - 🗂️ Category management  
 
-
-💼 License
-----------
-
-This project is open-source and free to use.
