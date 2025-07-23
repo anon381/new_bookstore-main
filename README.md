@@ -14,7 +14,7 @@ Technologies:
 ----------
 
 ✅ Backend (PHP and MySQL)
-- Add / Edit / Delete / View books
+- Add / Edit / Delete / View - books
 - Upload cover images (JPG/PNG)
 - Logs actions in log.txt
 - MySQL storage with auto timestamps
