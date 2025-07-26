@@ -10,32 +10,32 @@ Technologies:
 
 
 
-🚀 Features
-----------
+## 🚀 Features
 
-✅ Backend (PHP and MySQL)
-- Add / Edit / Delete / View - books
-- Upload cover images (JPG/PNG)
-- Logs actions in log.txt
-- MySQL storage with auto timestamps
+### ✅ Backend (PHP + MySQL)
+- 📚 **Add / Edit / Delete / View** books  
+- 🖼️ **Upload** book cover images (JPG / PNG)  
+- 📝 **Log actions** to `log.txt` (create, update, delete)  
+- ⏱️ **Auto timestamps** via MySQL  
 
-🎨 Frontend (HTML + CSS + JS)
-- AJAX operations (no reloads)
-- Responsive layout (Bootstrap)
-- Client-side validation
-- Dynamic UI with jQuery
+### 🎨 Frontend (HTML + CSS + JS)
+- ⚡ **AJAX-powered** operations (no page reloads)  
+- 📱 **Responsive layout** with Bootstrap  
+- ✅ **Client-side validation**  
+- 🧩 **Interactive UI** using jQuery  
 
+---
 
-🧰 Tech Stack
--------------
+## 🧰 Tech Stack
 
-Category     | Tools
--------------|-----------------------
-Language     | PHP, JavaScript
-Database     | MySQL
-Styling      | CSS, Bootstrap 5
-Scripting    | jQuery, AJAX
-Logging      | File-based logging
+| 🗂️ Category    | 🔧 Tools                            |
+|----------------|------------------------------------|
+| 💻 Language     | PHP, JavaScript                     |
+| 🛢️ Database     | MySQL                               |
+| 🎨 Styling      | CSS, Bootstrap 5                    |
+| ⚙️ Scripting    | jQuery, AJAX                        |
+| 🧾 Logging      | File-based logging (`log.txt`)      |
+
 
 
 📁 Project Structure
