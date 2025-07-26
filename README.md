@@ -98,7 +98,6 @@ log.txt content:
 [2025-07-21 12:30:45] Book added: "Clean Code" by Robert C. Martin  
 [2025-07-21 12:31:10] Book deleted: ID 5  
 
-
 🔮 Future Ideas
 ----------------
 
