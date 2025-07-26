@@ -81,6 +81,8 @@ $db   = 'your_db';
 $user = 'your_user';  
 $pass = 'your_pass';  
 
+---------------------------------------------------
+
 4. 🌐 Run the App
 -----------------
 Start your local server (XAMPP, LAMP, etc.)  
