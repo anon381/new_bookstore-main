@@ -56,18 +56,26 @@ bookstore/
 └── books.sql          - SQL schema  
 
 
-🛠️ Setup Instructions
-----------------------
+## 🛠️ Setup Instructions
 
-1. 📦 Clone the Repository
----------------------------
-git clone https://github.com/your-username/php-bookstore.git  
-cd php-bookstore  
+<details>
+<summary>📦 <strong>Step 1: Clone the Repository</strong></summary>
 
-2. 💾 Create MySQL Database
-----------------------------
-Use phpMyAdmin or MySQL CLI to run the following:
+| Command | Description |
+|--------|-------------|
+| `git clone https://github.com/your-username/php-bookstore.git` | Clone the repository |
+| `cd php-bookstore` | Navigate into the project folder |
 
+</details>
+
+---
+
+<details>
+<summary>💾 <strong>Step 2: Create MySQL Database</strong></summary>
+
+Use **phpMyAdmin** or **MySQL CLI** to execute the following:
+
+```sql
 CREATE TABLE books (
   id INT AUTO_INCREMENT PRIMARY KEY,
   title VARCHAR(255),
@@ -76,22 +84,33 @@ CREATE TABLE books (
   cover VARCHAR(255),
   created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+```
+</details>
 
-3. 🔧 Configure Database in db.php
+---
+
+<details>
+<summary>💾 <strong>Step 3 Configure Database in db.php  </strong></summary>
+
 ----------------------------------
 $host = 'localhost';  
 $db   = 'your_db';  
 $user = 'your_user';  
 $pass = 'your_pass';  
 
----------------------------------------------------
+</details>
 
-4. 🌐 Run the App
+---
+<details>
+<summary>🌐  <strong>4. Run the App  </strong></summary>
+
 -----------------
 Start your local server (XAMPP, LAMP, etc.)  
 Visit: http://localhost/bookstore/index.php  
 
+</details>
 
+---
 
 
 
