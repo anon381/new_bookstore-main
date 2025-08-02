@@ -8,3 +8,4 @@
 2025-04-29 02:58:34 - Deleted book ID: 23
 2025-04-29 02:58:43 - Deleted book ID: 25
 2025-04-29 02:59:11 - Updated: the man one
+2025-04-29 02:59:43 - Deleted book ID: 26
