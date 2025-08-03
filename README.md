@@ -10,8 +10,6 @@ Technologies:
 [PHP Backend]    [Bootstrap Styled]    [jQuery AJAX Ready]    [MySQL Database]
 
 
-
-
 ## 🚀 Features
 
 ### ✅ Backend (PHP + MySQL)
