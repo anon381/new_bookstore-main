@@ -237,7 +237,7 @@ if (isset($_GET['delete'])) {
             <?php if ($book['cover_photo']): ?>
                 <img src="<?= htmlspecialchars($book['cover_photo']) ?>" alt="Cover">
             <?php else: ?>
-                No cover
+                No-cover yet
             <?php endif; ?>
         </td>
         <td>
