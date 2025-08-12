@@ -123,5 +123,5 @@ log.txt content:
 - 🔍 Book search and filters  
 - 👤 User login & admin panel  
 - ⭐ Ratings and reviews  
-- 🗂️ Category management  
+- 🗂️ Category-management  
 
