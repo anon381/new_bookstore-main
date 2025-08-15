@@ -63,7 +63,7 @@ switch ($requestMethod) {
             logAction("Deleted", "ID: " . $_GET['id']);
             echo json_encode(["message" => "Book deleted"]);
         } else {
-            echo json_encode(["error" => "ID required"]);
+            echo json_encode(["error" => "ID is required"]);
         }
         break;
 
