@@ -41,7 +41,7 @@ Technologies:
 
 
 
-📁 Project Structure
+## 📁 Project Structure
 --------------------
 
 bookstore/
