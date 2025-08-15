@@ -11,6 +11,5 @@ class Book extends Model
 {
     use HasFactory;
 
-    // Allow mass assignment for these attributes
     protected $fillable = ['title', 'author', 'cover'];
 }
