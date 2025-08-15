@@ -17,7 +17,7 @@ class BookController extends Controller
     public function store(Request $request)
     {
                 $books = DB::table('books')->get();
-        
+        // request-validation
         $request->validate([
             'title' => 'required|string',
             'author' => 'required|string',
