@@ -1,3 +1,4 @@
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=%F0%9F%93%9A+PHP+Bookstore+App" alt="Typing SVG" />
